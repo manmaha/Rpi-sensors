@@ -10,8 +10,9 @@ adafruit-circuitpython-ssd1306 = "*"
 adafruit-circuitpython-vl53l0x = "*"
 adafruit-circuitpython-mpu6050 = "*"
 adafruit-circuitpython-ahtx0 = "*"
+"luma.oled" = "*"
 "rpi.gpio" = "*"
-pillow = "*"
+pillow = "==8.1.2"
 numpy = "*"
 
 [dev-packages]
