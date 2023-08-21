@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+adafruit-blinka = "*"
+adafruit-circuitpython-bme280 = "*"
+adafruit-circuitpython-ssd1306 = "*"
+adafruit-circuitpython-vl53l0x = "*"
+adafruit-circuitpython-mpu6050 = "*"
+adafruit-circuitpython-ahtx0 = "*"
+"rpi.gpio" = "*"
+pillow = "*"
+numpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
